@@ -4,12 +4,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-@media only screen and (max-width: 600px) {
-  .graph {
-    height: 800px;
-    margin-bottom: 60px;
-  }
-}
 img.desmosicon {
   width: 40px;
   display: block;
@@ -29,7 +23,7 @@ h1{
   justify-content: center;
   flex-direction: column;
   width: 400px;
-  height: 200px;
+  height: 230px;
   color: rgb(0, 0, 0);
   font-family: 'Raleway';
   text-align: center;
